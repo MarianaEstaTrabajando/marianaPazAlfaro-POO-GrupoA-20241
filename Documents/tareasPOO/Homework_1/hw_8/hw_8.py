@@ -83,5 +83,6 @@ while (opcion!=9):
         libro=Libro(nombre,autor)
         name=input("Ingrese nombre completo del usuario: ")
         libreria.devolver(libro,name)
+print("Usted ha salido del programa")
     
     
