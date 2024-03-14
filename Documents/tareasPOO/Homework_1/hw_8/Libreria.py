@@ -54,5 +54,5 @@ class Libreria:
                print(i.get_nombre())
                i.show_books()
                self.si=self.si+1
-        if(si==0):
+        if(self.si==0):
           print("No hay libros rentados\n") 
