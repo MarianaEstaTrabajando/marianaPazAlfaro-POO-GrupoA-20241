@@ -34,6 +34,7 @@ while (opcion!=9):
     print("6. Mostrar libros disponibles")
     print("7. Rentar libro(s)")
     print("8. Entregar libro(s)")
+    print("9. Salir")
     print("***********************************\n")
     opcion = input("Ingresa la opción: ")
 
